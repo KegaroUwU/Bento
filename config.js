@@ -18,8 +18,8 @@ const CONFIG = {
 
 	// Greetings
 	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
+	greetingAfternoon: 'Good afternoon',
+	greetingEvening: 'Good evening',
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'CoreKeeper',
 			icon: 'github',
-			link: 'https://core-keeper.fandom.com/wiki/Core_Keeper_Wiki/',
+			link: 'https://core-keeper.fandom.com/wiki/Core_Keeper_Wiki',
 		},
 		{
 			id: '2',
@@ -85,7 +85,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Odysee',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
