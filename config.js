@@ -53,21 +53,21 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
+			name: 'CoreKeeper',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://core-keeper.fandom.com/wiki/Core_Keeper_Wiki/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
+			name: 'Sea of Thieves',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://seaofthieves.fandom.com/wiki/Sea_of_Thieves_Wiki',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'NoMansSky',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://nomanssky.fandom.com/wiki/No_Man%27s_Sky_Wiki',
 		},
 		{
 			id: '4',
