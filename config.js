@@ -54,7 +54,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'CoreKeeper',
-			icon: 'github',
+			icon: 'aperture',
 			link: 'https://core-keeper.fandom.com/wiki/Core_Keeper_Wiki',
 		},
 		{
@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'NoMansSky',
-			icon: 'trello',
+			icon: 'navigation-2',
 			link: 'https://nomanssky.fandom.com/wiki/No_Man%27s_Sky_Wiki',
 		},
 		{
