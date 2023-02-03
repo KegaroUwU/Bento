@@ -36,7 +36,7 @@ const CONFIG = {
 	defaultLongitude: '-122.419',
 
 	// Autochange
-	autoChangeTheme: true,
+	autoChangeTheme: false,
 
 	// Autochange by OS
 	changeThemeByOS: true,
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'NoMansSky',
-			icon: 'navigation-2',
-			link: 'https://nomanssky.fandom.com/wiki/No_Man%27s_Sky_Wiki',
+			name: 'StardewValley',
+			icon: 'sprout',
+			link: 'https://stardewvalleywiki.com/Stardew_Valley_Wiki',
 		},
 		{
 			id: '6',
@@ -135,16 +135,16 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'film',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Family Guy',
+					link: 'https://dopebox.to/watch-tv/watch-family-guy-online-hd-39549.9263533',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Daredevil',
+					link: 'https://dopebox.to/tv/watch-marvels-daredevil-online-hd-39196',
 				},
 				{
 					name: 'Oldies',
