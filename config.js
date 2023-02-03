@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'NoMansSky',
+			icon: 'navigation-2',
+			link: 'https://nomanssky.fandom.com/wiki/No_Man%27s_Sky_Wiki',
 		},
 		{
 			id: '6',
