@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Family Guy',
-					link: 'https://dopebox.to/watch-tv/watch-family-guy-online-hd-39549.9263533',
+					name: 'Bobs burgers',
+					link: 'https://dopebox.to/tv/watch-bobs-burgers-online-hd-39432',
 				},
 				{
 					name: 'Daredevil',
