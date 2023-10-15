@@ -116,8 +116,8 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
+			name: 'Ark Wiki',
+			icon: 'merge',
 			link: 'https://ark.wiki.gg/wiki/ARK_Wiki',
 		},
 		{
