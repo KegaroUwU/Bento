@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Sea of Thieves',
 			icon: 'skull',
-			link: 'https://seaofthieves.fandom.com/wiki/Sea_of_Thieves_Wiki',
+			link: 'https://seaofthieves.wiki.gg/wiki/Sea_of_Thieves_Wiki',
 		},
 		{
 			id: '3',
